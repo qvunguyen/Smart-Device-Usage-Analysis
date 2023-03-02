@@ -46,13 +46,23 @@ As a junior data analyst on the Bellabeat marketing analytics team, I was tasked
 
 - Tuesday, Saturday, and Friday are the top three days where people tend to burn the most calories, followed by Monday, Wednesday, Sunday, and Thursday.
 
+![calories_burned_by_day](https://github.com/qvunguyen/google_data_analyst_capstone/blob/main/plots/avg_cal_burned_by_day.png?raw=true)
+
 - Saturday, Tuesday, and Friday are the top three most active days in terms of total distance traveled and total steps taken.
+
+![distanace_by_day](https://github.com/qvunguyen/google_data_analyst_capstone/blob/main/plots/avg_dist_by_day.png?raw=true)
+
+![step_by_day](https://github.com/qvunguyen/google_data_analyst_capstone/blob/main/plots/avg_step_by_day.png?raw=true)
 
 - Outdoor activities seem to be more common on Saturday and Tuesday, while indoor activities are more prevalent on Friday.
 
 - People tend to perform high-intensity exercises in the afternoon on Saturday and in the evening or afternoon on Tuesday, with high-intensity exercise more commonly performed in the evening on Friday.
 
+![heart_rate_by_daytime](https://github.com/qvunguyen/google_data_analyst_capstone/blob/main/plots/avg_heart_rate_by_day_and_daytime.png?raw=true)
+
 - People tend to have less total sleep time on their most active days, with Saturday, Friday, and Tuesday ranking among the bottom four.
+
+![sleep_by_day](https://github.com/qvunguyen/google_data_analyst_capstone/blob/main/plots/avg_sleep_by_day.png?raw=true)
 
 
 # Recommendation for Bellabeat
