@@ -2,7 +2,8 @@
 
 This repository contains the code and data for analyzing the smart device fitness data for Bellabeat, a manufacturer of health-focused products for women. The insights gained from this analysis will help guide marketing strategy for the company. This project is the capstone project for my professional Google Data Analysis certificate
 
-Case study specs: https://drive.google.com/file/d/1xaNSZji0MnNKoPfObpl36S_tfKEtVyTq/view?usp=share_link
+- Case study specs: https://drive.google.com/file/d/1xaNSZji0MnNKoPfObpl36S_tfKEtVyTq/view?usp=share_link
+- Google Data Analyst certificate: https://coursera.org/share/bbdfea9302df5502a32a8c1a4f30f4f2
 
 # Data Source
 
