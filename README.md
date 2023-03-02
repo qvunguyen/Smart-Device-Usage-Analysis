@@ -36,11 +36,13 @@ As a junior data analyst on the Bellabeat marketing analytics team, I was tasked
 
 - Saturday, Tuesday, and Friday are the top three most active days, while Sunday, Wednesday, and Monday are the least active.
 
-![image](https://github.com/qvunguyen/google_data_analyst_capstone/blob/main/plots/avg_active_minutes_vs_sedentary_by_day.png?raw=true)
+![active_by_day](https://github.com/qvunguyen/google_data_analyst_capstone/blob/main/plots/avg_active_minutes_vs_sedentary_by_day.png?raw=true)
 
 - People accumulate around 20 minutes of very active minutes and 15 minutes of fairly active minutes per day.
 
 - Lightly active minutes vary across the days and are a significant factor in distinguishing the most active day from the least active day.
+
+![active_by_level](https://github.com/qvunguyen/google_data_analyst_capstone/blob/main/plots/avg_active_minutes_by_level.png?raw=true)
 
 - Tuesday, Saturday, and Friday are the top three days where people tend to burn the most calories, followed by Monday, Wednesday, Sunday, and Thursday.
 
