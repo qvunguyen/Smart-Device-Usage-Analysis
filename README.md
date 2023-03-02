@@ -20,7 +20,7 @@ To run the code, follow these steps:
 
 3. Install the necessary libraries by running `pip install -r requirements.txt` in your command prompt or terminal.
 
-4. Open the Bellabeat_Marketing_Analysis.ipynb file in Jupyter Notebook or Google Colab.
+4. Open the `bellabeat_case_study_kaggle.ipynb` file in Jupyter Notebook or Google Colab.
 
 5. Follow the instructions provided in the notebook to execute the code and visualize the results.
 
