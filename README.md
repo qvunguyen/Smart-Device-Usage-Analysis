@@ -1,6 +1,6 @@
 # Bellabeat Marketing Analysis
 
-This repository contains the code and data for analyzing the smart device fitness data for Bellabeat, a manufacturer of health-focused products for women. The insights gained from this analysis will help guide marketing strategy for the company.
+This repository contains the code and data for analyzing the smart device fitness data for Bellabeat, a manufacturer of health-focused products for women. The insights gained from this analysis will help guide marketing strategy for the company. This project is the capstone project for my professional Google Data Analysis certificate
 
 # Data Source
 
